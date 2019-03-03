@@ -1,0 +1,9 @@
+LICENSE
+
+Excel Export Plugin. This plugin source and binary is provided without ANY warranties! It's NOT included in the standard Hours and Minutes package, and it's therefore NOT supported.
+
+In no event will Port Jackson Computing, its suppliers or its distributors be held liable for indirect, special, contigent, consequal, incidental or similar damages of any kind. Port Jackson Computing, it's suppliers, or its distributors will not be held responsible for loss of data, computer damages, viruses, downtime, economical damage/costs. Port Jackson Computing may, at any time, terminate your license if you do not obey the requirements of this license agreement.
+
+For detailed information, or questions please send an email to info@hoursandminutes.com.
+
+For further information about how to create custom plugins, please refer to the Hours and Minutes website at http://www.hoursandminutes.com.

@@ -1,0 +1,23 @@
+[OPTIONS]
+Auto Index=Yes
+Compatibility=1.1 or later
+Compiled file=..\Hours and Minutes Help.chm
+Contents file=hm.hhc
+Default Font=Tahoma,8,0
+Default Window=wndMain
+Default topic=start here.html
+Display compile notes=No
+Display compile progress=No
+Full-text search=Yes
+Index file=hm.hhk
+Language=0x409 English (United States)
+Title=Hours and Minutes
+
+[WINDOWS]
+WhatsThisHelp=,"hm.hhc",,,,,,,,0x2100,,0x0,,,0x400,,,,,0
+wndMain="Hours and Minutes","hm.hhc",,,,,,,,0x520,,0x300e,[11,10,611,460],0x30000,,,,,,0
+wndTour=,"hm.hhc",,"start here.html",,,,,,,,0x0,[11,10,511,340],0x400000,,,,,,0
+
+
+[INFOTYPES]
+

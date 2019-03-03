@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="WindowName" value="wndMain">
+	<param name="Window Styles" value="0x800621">
+<param name="Font" value="Tahoma,8,0">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Start Here">
+		<param name="Local" value="start here.html">
+		<param name="WindowName" value="wndMain">
+		<param name="ImageNumber" value="21">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="General">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Take a Tour">
+			<param name="Local" value="tour-1.html">
+			<param name="WindowName" value="wndTour">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="What's New?">
+			<param name="Local" value="whats-new.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Dialogs">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Configuring Settings">
+			<param name="Local" value="frmMain-Preferences.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Getting Statistics">
+			<param name="Local" value="frmMain-Statistics.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Using Reminders">
+			<param name="Local" value="frmMain-Reminders.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Using Tasks &amp; Comments">
+			<param name="Local" value="frmModes.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Using Rules">
+			<param name="Local" value="frmRules.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Securing your Data">
+			<param name="Local" value="frmBackup.html">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>
