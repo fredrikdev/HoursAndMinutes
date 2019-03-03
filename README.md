@@ -4,6 +4,9 @@
 
 Hours and Minutes was a commercial software that I created in Visual Basic in the early 2000s. It was designed to run in the background of Windows, and allowed you to easily log the time what you worked with, by creating *tasks*, *comments* and *reminders*. You could then, at any time, generate a time sheet - *statistics*, or with the help of plugins, output the time data to Excel or SQL server. 
 
+![](Images/ham1.gif)
+![](Images/ham2.gif)
+
 ## The repository contains full source (in Visual Basic 6.0) for
 
 * Hours and Minutes 1.6 
