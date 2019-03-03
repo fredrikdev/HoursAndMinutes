@@ -17,7 +17,7 @@ Hours and Minutes was a commercial software that I created in Visual Basic in th
 
 ## License
 
-The source code is released under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](https://creativecommons.org/licenses/by-nc/4.0/). The complete license is also available in license.txt. For custom licensing please [contact me](mailto:fredrik@johanssonrobotics.com).
+The source code is released under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](https://creativecommons.org/licenses/by-nc/4.0/). The complete license is also available in license.txt. For custom licensing please [contact me](mailto:fredrik@johanssonrobotics.com). Copyright © 2012 by Fredrik Johansson Robotics AB.
 
 ## Visual Basic 6.0 on Windows 10
 
